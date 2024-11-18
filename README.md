@@ -15,7 +15,7 @@ This project leverages **OpenCV** and **MediaPipe** to detect hand gestures via 
 
 
 ```
-git clone https://github.com/dayanidigv/sign-language-python/
+git clone https://github.com/dayanidigv/sign-language-python.git
 ```
 
 
